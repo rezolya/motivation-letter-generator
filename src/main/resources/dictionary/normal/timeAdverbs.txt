@@ -1,0 +1,6 @@
+often
+sometimes
+regularly
+generally
+usually
+recurrently
